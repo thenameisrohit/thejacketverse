@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f329288.css",
+    "main.js": "/static/js/main.b764de1b.js",
+    "static/media/pdf1.pdf": "/static/media/pdf1.91786bda110c852170e1.pdf",
+    "static/media/bannerImgTwo.webp": "/static/media/bannerImgTwo.d93152138c5c9da3de58.webp",
+    "static/media/bannerImgThree.webp": "/static/media/bannerImgThree.cdd63ff84acf53a73a0d.webp",
+    "static/media/bannerImgOne.webp": "/static/media/bannerImgOne.6750fd13a41b146ce5e0.webp",
+    "static/media/saleImgThree.webp": "/static/media/saleImgThree.cfa9e86d5f48658837a8.webp",
+    "static/media/IMPRIMANTE_PANTUM_CP2200DW.webp": "/static/media/IMPRIMANTE_PANTUM_CP2200DW.341b562ba9d5edb7590b.webp",
+    "static/media/payment.png": "/static/media/payment.3e00cc601c9e7fc1e7d3.png",
+    "static/media/productOfTheYear.webp": "/static/media/productOfTheYear.2c30f10b51873bab4630.webp",
+    "static/media/logoLight.png": "/static/media/logoLight.e11944e7ba5090ebbd5b.png",
+    "static/media/orebiLogo.png": "/static/media/orebiLogo.e11944e7ba5090ebbd5b.png",
+    "static/media/imprimante6.webp": "/static/media/imprimante6.aeaf519540df153f370b.webp",
+    "static/media/saleImgTwo.webp": "/static/media/saleImgTwo.1373f5e5d1124c6fa845.webp",
+    "static/media/IMPRIMANTE_PANTUM_BP5100DN.webp": "/static/media/IMPRIMANTE_PANTUM_BP5100DN.5dfb0e0f8ce18aeda55e.webp",
+    "static/media/saleImgOne.webp": "/static/media/saleImgOne.9abb1243c6615e3086fa.webp",
+    "static/media/IMPRIMANTE_PANTUM_BM5100FDW.webp": "/static/media/IMPRIMANTE_PANTUM_BM5100FDW.20d731f7673739b5be80.webp",
+    "static/media/emptyCart.png": "/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "static/media/imprimante8.webp": "/static/media/imprimante8.cc3a81b86c49f6da25da.webp",
+    "static/media/newArrOne.webp": "/static/media/newArrOne.6b4577e5408945cb8c51.webp",
+    "static/media/newArrTwo.webp": "/static/media/newArrTwo.3e7adf26d8075dfe467c.webp",
+    "static/media/newArrFive.webp": "/static/media/newArrFive.c9533a21298fc18d0106.webp",
+    "static/media/imprimante7.webp": "/static/media/imprimante7.6bb7c8e73c9f6af2e0f8.webp",
+    "static/media/newArrThree.webp": "/static/media/newArrThree.5b52df3f31f80b17c862.webp",
+    "static/media/bestSellerOne.webp": "/static/media/bestSellerOne.5b23d1651bf948ba16c5.webp",
+    "static/media/bestSellerFour.webp": "/static/media/bestSellerFour.dc22b060da7bb9d1adff.webp",
+    "static/media/bestSellerTwo.webp": "/static/media/bestSellerTwo.8629ef1b3dad4f26751d.webp",
+    "static/media/bestSellerThree.webp": "/static/media/bestSellerThree.9bccebea9dbdc0b869aa.webp",
+    "static/media/newArrFour.webp": "/static/media/newArrFour.095a184ea465d5432569.webp",
+    "index.html": "/index.html",
+    "main.2f329288.css.map": "/static/css/main.2f329288.css.map",
+    "main.b764de1b.js.map": "/static/js/main.b764de1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f329288.css",
+    "static/js/main.b764de1b.js"
+  ]
+}
